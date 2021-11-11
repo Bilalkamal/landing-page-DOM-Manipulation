@@ -5,6 +5,7 @@
 This is a landing page that uses JavaScript to update the page dynamically.
 This is part of the Udacity's Web Development Nano Degree. 
 
+![](https://imgur.com/a/LkZR9AE)
 ## Technologies used
 
 - HTML
